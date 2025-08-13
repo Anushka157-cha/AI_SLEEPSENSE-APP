@@ -21,5 +21,5 @@ Watch Here
 
 🌐 How to Run
 Clone this repository
-git clone [https://github.com/your-username/AI-SleepSense.git][(https://github.com/Anushka157-cha/AI_SLEEPSENSE-APP)]
+git clone [https://github.com/Anushka157-cha/AI_SLEEPSENSE-APP]
 cd AI-SleepSense
