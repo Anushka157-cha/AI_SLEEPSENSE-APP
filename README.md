@@ -17,7 +17,8 @@ Seaborn
 NumPy
 Pandas
 📹 Demo Video
-Watch Here
+Watch Here:
+
 
 🌐 How to Run
 Clone this repository
